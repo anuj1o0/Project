@@ -9,4 +9,4 @@ audio_file = st.file_uploader("Upload Audio", type=["wav","mp3","m4a"])
 
 @st.cache
 
-def load_speech_model():
+# def load_speech_model():
